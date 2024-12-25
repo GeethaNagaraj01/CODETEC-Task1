@@ -68,6 +68,18 @@ Future Extensions
 Outcome
 This project demonstrated the ability to:
 - Create and work with custom datasets.
-- Perform a structured exploratory analysis.
+
+
+
+
+
+- P![Screenshot from 2024-12-25 21-43-22](https://github.com/user-attachments/assets/3a156f25-9328-4f39-87d8-dc50a86c6902)
+- ![Screenshot from 2024-12-25 21-49-20](https://github.com/user-attachments/assets/ee3cf1b5-2a23-4f69-9839-f8f69c92858c)
+
+erform a st![Screenshot from 2024-12-25 21-46-06](https://github.com/user-attachments/assets/aecd9baf-e133-47e9-96f7-abf3f2b53060)
+ructured exploratory analysis.
+![Screenshot from 2024-12-25 21-46-14](https://github.com/user-attachments/assets/61dfc1a6-fc1a-43d7-82d9-fe0bb5014fc9)
+
 - Visualize data and derive insights effectively.
 
+![Screenshot from 2024-12-25 21-46-44](https://github.com/user-attachments/assets/90c61e1b-9265-468e-85ee-a285fbb08da6)
